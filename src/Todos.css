@@ -1,0 +1,15 @@
+div.collection-item:hover span#a {
+  display: none;
+}
+
+div.collection-item:hover span#b {
+  display: inline;
+}
+
+div.collection-item span#a {
+  display: inline;
+}
+
+div.collection-item span#b {
+  display: none;
+}
